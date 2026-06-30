@@ -1,5 +1,5 @@
 Hi there 👋
-Notion : https://app.notion.com/p/Bang3Kyu-s-Notion-3674730da5514bb8be436dbd4b9695a2?source=copy_link
+<br>Notion : https://app.notion.com/p/Bang3Kyu-s-Notion-3674730da5514bb8be436dbd4b9695a2?source=copy_link
 <!--
 **bangbang3kyu/bangbang3kyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
