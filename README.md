@@ -80,8 +80,7 @@
     />
   </a>
   </p>
-  <br><br>
-
+  <br>
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=A3B18A&height=100&section=footer"
     width="100%"
