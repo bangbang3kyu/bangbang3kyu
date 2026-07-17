@@ -70,14 +70,16 @@
 
   <h2>🐾 GitAnimals Farm</h2>
 
-  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=bangbang3kyu&utm_content=farm">
+  <p align="center">
+  <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=bangbang3kyu">
     <img
-      src="https://render.gitanimals.org/farms/bangbang3kyu"
+      src="https://render.gitanimals.org/lines/bangbang3kyu"
       width="600"
-      alt="Bang3kyu's GitAnimals Farm"
+      height="120"
+      alt="Bangbang3kyu's GitAnimal"
     />
   </a>
-
+  </p>
   <br><br>
 
   <img
