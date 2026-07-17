@@ -52,3 +52,12 @@
 <img src="https://img.shields.io/badge/Smart%20Contract%20Security-363636?style=for-the-badge&logo=Ethereum&logoColor=white">
 </div>
 
+<br>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=bangbang3kyu&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/bangbang3kyu"
+  width="600"
+  height="300"
+/>
+</a>
+
