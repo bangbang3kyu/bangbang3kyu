@@ -73,7 +73,7 @@
   <p align="center">
   <a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=bangbang3kyu">
     <img
-      src="https://render.gitanimals.org/lines/bangbang3kyu"
+      src="https://render.gitanimals.org/lines/bangbang3kyu?pet-id=865875656670548755"
       width="600"
       height="120"
       alt="Bangbang3kyu's GitAnimal"
