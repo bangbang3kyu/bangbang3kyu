@@ -56,9 +56,11 @@
 
   <h4>Security Tools</h4>
 
-  <img src="https://img.shields.io/badge/IDA%20Pro-3A5A40?style=flat-square&logo=hexo&logoColor=white" alt="IDA Pro" />
-  <img src="https://img.shields.io/badge/Burp%20Suite-588157?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-A3B18A?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/IDA%20Pro-3A5A40?style=flat-square&logo=hexo&logoColor=white" alt="IDA Pro" />
+<img src="https://img.shields.io/badge/GDB-588157?style=flat-square&logo=gnu&logoColor=white" alt="GDB" />
+<img src="https://img.shields.io/badge/pwndbg-A3B18A?style=flat-square&logo=gnubash&logoColor=white" alt="pwndbg" />
+<img src="https://img.shields.io/badge/Burp%20Suite-3A5A40?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Wireshark-588157?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
 
   <h4>Security Fields</h4>
 
