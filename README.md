@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    Exploring Web Hacking, Reversing and Smart Contract Security.
+    Exploring Web Hacking, Reversing and Smart Contract Security
   </p>
 
   <br>
