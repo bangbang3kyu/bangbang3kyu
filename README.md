@@ -40,12 +40,13 @@
 
   <h2>🛠️ Tech Stack</h2>
 
-  <h4>Languages & Frameworks</h4>
+<h4>Languages & Frameworks</h4>
 
-  <img src="https://img.shields.io/badge/Python-3A5A40?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Flask-344E41?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/C-588157?style=flat-square&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Solidity-A3B18A?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+<img src="https://img.shields.io/badge/Python-3A5A40?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Flask-344E41?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/C-588157?style=flat-square&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/Assembly-3A5A40?style=flat-square&logo=assemblyscript&logoColor=white" alt="Assembly" />
+<img src="https://img.shields.io/badge/Solidity-A3B18A?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
 
   <h4>Database & DevOps</h4>
 
@@ -63,11 +64,12 @@
 <img src="https://img.shields.io/badge/Burp%20Suite-588157?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
 <img src="https://img.shields.io/badge/Wireshark-A3B18A?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
 
-  <h4>Security Fields</h4>
+<h4>Security Fields</h4>
 
-  <img src="https://img.shields.io/badge/Web%20Hacking-3A5A40?style=flat-square&logo=owasp&logoColor=white" alt="Web Hacking" />
-  <img src="https://img.shields.io/badge/Reversing-588157?style=flat-square&logo=assemblyscript&logoColor=white" alt="Reversing" />
-  <img src="https://img.shields.io/badge/Smart%20Contract%20Security-A3B18A?style=flat-square&logo=ethereum&logoColor=white" alt="Smart Contract Security" />
+<img src="https://img.shields.io/badge/Web%20Hacking-3A5A40?style=flat-square&logo=owasp&logoColor=white" alt="Web Hacking" />
+<img src="https://img.shields.io/badge/Pwnable-A3B18A?style=flat-square&logo=linux&logoColor=white" alt="Pwnable" />
+<img src="https://img.shields.io/badge/Reversing-588157?style=flat-square&logo=assemblyscript&logoColor=white" alt="Reversing" />
+<img src="https://img.shields.io/badge/Smart%20Contract%20Security-A3B18A?style=flat-square&logo=ethereum&logoColor=white" alt="Smart Contract Security" />
 
   <br><br>
 
