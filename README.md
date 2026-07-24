@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    Exploring Web Hacking, Reversing and Smart Contract Security
+    Interested in vulnerability research across web, binary, and smart contract security
   </p>
 
   <br>
